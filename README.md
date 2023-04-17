@@ -1,6 +1,6 @@
-# Contoh Penerapan Redux Thunk
+# Contoh Penerapan Redux Saga
 
-Contoh sederhana penerapan managemen data dengan menggunakan Redux Thunk dengan menggunakan contoh aplikasi [Tugas 3](https://github.com/Pandu160402/Tugas-3-PAM)
+Contoh sederhana penerapan managemen data dengan menggunakan Redux Saga dengan menggunakan contoh aplikasi [Tugas 3](https://github.com/Pandu160402/Tugas-3-PAM)
 
 ## Batasan Pengembangan
 - Data yang diambil berupa data acak tanpa API. 
